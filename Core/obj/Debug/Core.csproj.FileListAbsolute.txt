@@ -1,0 +1,7 @@
+C:\Users\Арина Спиридонова\Desktop\по учебе\ais\laba 1\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Арина Спиридонова\Desktop\по учебе\ais\laba 1\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Арина Спиридонова\Desktop\по учебе\ais\laba 1\Core\bin\Debug\Core.dll.config
+C:\Users\Арина Спиридонова\Desktop\по учебе\ais\laba 1\Core\bin\Debug\Core.dll
+C:\Users\Арина Спиридонова\Desktop\по учебе\ais\laba 1\Core\bin\Debug\Core.pdb
+C:\Users\Арина Спиридонова\Desktop\по учебе\ais\laba 1\Core\obj\Debug\Core.dll
+C:\Users\Арина Спиридонова\Desktop\по учебе\ais\laba 1\Core\obj\Debug\Core.pdb
