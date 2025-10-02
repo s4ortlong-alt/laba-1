@@ -87,7 +87,7 @@ namespace Core
         }
 
         //кормить
-        public bool Feed(int id)
+        public static bool Feed(int id)
         {
             Jerboa jr = GetJerboaById(id);
             if (jr != null)
